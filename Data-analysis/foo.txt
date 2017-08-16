@@ -1,0 +1,9 @@
+insert into Table_name values ('Ada B.O','504293','B.O','Adilabad','Hyderabad','Andhra Pradesh','Asifabad','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Andugulpet B.O','504231','B.O','Adilabad','Hyderabad','Andhra Pradesh','Luxettipet','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Annaram B.O','504201','B.O','Adilabad','Hyderabad','Andhra Pradesh','Chennur','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Arli (T) B.O','504312','B.O','Adilabad','Hyderabad','Andhra Pradesh','Adilabad','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Bambara B.O','504295','B.O','Adilabad','Hyderabad','Andhra Pradesh','Asifabad','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Bangalpet B.O','504106','B.O','Adilabad','Hyderabad','Andhra Pradesh','Nirmal','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Bansapalli B.O','504306','B.O','Adilabad','Hyderabad','Andhra Pradesh','Nirmal','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Bejjur B.O','504299','B.O','Adilabad','Hyderabad','Andhra Pradesh','Sirpur (t)','Adilabad','ANDHRA PRADESH');
+insert into Table_name values ('Bellalbadi B.O','504202','B.O','Adilabad','Hyderabad','Andhra Pradesh','Khanapur','Adilabad','ANDHRA PRADESH');
